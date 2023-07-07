@@ -1,0 +1,28 @@
+#Open project in Android Studio keep your pc connected to internet.
+First of all this project use firebase sdk therefore we need to connect our android project
+to firebase project the process is given below
+
+1.follow this tutorial to connect aur project to firebase 
+
+https://firebase.google.com/docs/android/setup
+
+OR
+
+we can create and connect our project to firebase from android studio 
+1.1 by logging to your google account from android studio by clicking on profile icon on top right corner
+1.2 after that click on toolbar click on tools -> Firebase 
+then the firebase Assistant will get opened on right side of android studio window.
+1.3 After that click on Authentication -> Email and password authentication than click on Connect to firebase 
+
+2.We have now success fully connected to aur app the firebase authentication dependancy is already
+added in aur project. now just open aur firebase project by clicking on
+
+this url https://console.firebase.google.com/u/2/
+
+select your project 
+click on
+Authentication -> sign-in method ->Email and password ->Enable
+
+3. create realtime database in test mode on firebase project.
+
+Thats it ! 
