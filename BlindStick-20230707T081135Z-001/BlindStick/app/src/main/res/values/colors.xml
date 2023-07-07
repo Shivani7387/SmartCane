@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C0392B</color>
+    <color name="colorPrimaryDark">#C0392B</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bgBottomNavigation">#fe485a</color>
+
+    <color name="grey">#bfbfbf</color>
+    <color name="light_grey">#f2f4f4</color>
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+    <color name="link_blue">#4d94ff</color>
+    <color name="darkRed">#cc0000</color>
+    <color name="colordarkRed">#cc0000</color>
+
+    <color name="mcam_color_light">#FAFAFA</color>
+    <color name="mcam_color_dark">#424242</color>
+
+
+    <color name="clr_theme_dark_text">#424242</color>
+    <color name="clr_theme_light_text">#FFF</color>
+    <color name="clr_theme_dark_text_shadow">#000</color>
+    <color name="clr_theme_light_text_shadow">#FFF</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <!--shimmer-->
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="item_name">#0c0c0c</color>
+    <color name="description">#1a1a1a</color>
+    <color name="chef">#777</color>
+    <color name="timestamp">#777</color>
+
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+</resources>

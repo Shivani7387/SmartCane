@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "839060613940",
+    "firebase_url": "https://blindstick-23f38.firebaseio.com",
+    "project_id": "blindstick-23f38",
+    "storage_bucket": "blindstick-23f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839060613940:android:d174aeebfd053745",
+        "android_client_info": {
+          "package_name": "com.blindstick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839060613940-iqnijl8cfmm75apgt2hqumuhhf988squ.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blindstick",
+            "certificate_hash": "4fb9af0af2dfbdf07779c2cad850a69d5ae7ad7b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHooz_OMmHKKdTr8WA1lDYgUZmBbyp5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839060613940-ckqbeq4api9jbvvu0hdkea8ej9guk2km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
